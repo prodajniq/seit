@@ -26,7 +26,7 @@ namespace пр12
             }
         }
 
-        private void ButtonProcessFractions_Click(object sender, EventArgs e)
+        private void Button_Click(object sender, EventArgs e)
         {
             for (int i = 0; i < dataGridView1.Rows.Count; i++)
             {
